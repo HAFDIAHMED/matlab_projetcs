@@ -1,6 +1,7 @@
 # Original Code from the Kafri Lab
 
 ## Overlay colours on a 3D image stack (rgb_overlay)
+Autors : @https://github.com/HAFDIAHMED
 
 ![result](https://github.com/Kafri-Lab/Matlab-Pro-Tips/blob/master/readme_images/rgb_overlay.png "result")
 
